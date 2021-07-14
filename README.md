@@ -2,7 +2,9 @@
 
 ------
 
-​																		2º SEMESTRE DE 2020
+   Desafios da disciplina Linguagem de Programação, do curso de Análise e Desenvolvimento de Sistemas da FATEC.
+
+​																		2º semestre de 2020
 
 ------
 
@@ -31,13 +33,13 @@ Na função main() faça um menu com as seguintes funções:
 
 ​	  3 – pesquisa um nome e mostra na tela
 
-  	4 – pesquisa os nomes pela 1º letra e mostra todos na tela.
+​	  4 – pesquisa os nomes pela 1º letra e mostra todos na tela.
 
-  	5 – altera  dados.
+​	  5 – altera  dados.
 
-  	6 – exclui dados.
+​	  6 – exclui dados.
 
-  	7 – saída
+​	  7 – saída
 
 **Obs.:** O programa deve ser finalizado pelo usuário.
 
@@ -49,25 +51,25 @@ Na função main() faça um menu com as seguintes funções:
 
 1) Escreva um programa que tem a estrutura de dados abaixo. O programa tem as seguintes opções:
 
-  	1 – entra produto.
+​	  1 – entra produto.
 
-  	2 – lista produtos na tela.
+​	  2 – lista produtos na tela.
 
-  	3 – pesquisa um produto pelo nome.
+​	  3 – pesquisa um produto pelo nome.
 
-  	4 – pesquisar um produto pela 1. letra do nome.
+​	  4 – pesquisar um produto pela 1. letra do nome.
 
-  	5 – pesquisar data de validade (mês/ano)
+​	  5 – pesquisar data de validade (mês/ano)
 
-  	6 – lista os produtos abaixo do estoque mínimo
+​	  6 – lista os produtos abaixo do estoque mínimo
 
-  	7 – movimenta quantidade em estoque (entrada e saída).
+​	  7 – movimenta quantidade em estoque (entrada e saída).
 
-  	8 – altera produto pesquisado pelo nome completo.
+​	  8 – altera produto pesquisado pelo nome completo.
 
-  	9 – exclui produto pesquisado pelo nome completo.
+​	  9 – exclui produto pesquisado pelo nome completo.
 
-  	10 – saída pelo usuário
+​	  10 – saída pelo usuário
 
 **Estrutura:** nome, quantidade atual, quantidade de estoque mínimo, data de validade do produto. 
 
